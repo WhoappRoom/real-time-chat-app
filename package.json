@@ -1,0 +1,17 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "novaxjs2": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
